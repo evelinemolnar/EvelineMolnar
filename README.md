@@ -2,7 +2,7 @@
 <h3 align="center">Fifth semester Computer Science student🤓
   <br>Full-Stack Developer💻</h3>
 
-- 👷🏻‍♀️I’m currently working on **Ionic Mobile App**
+- 👷🏻‍♀️I’m currently working on **University Projects**
 
 - 🦕 I’m currently learning **Swift**
 
