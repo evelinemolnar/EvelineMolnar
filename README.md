@@ -1,5 +1,5 @@
 <h2 >Hello, I'm Eveline Molnar 🌺</h2>
-<h3 align="center">Fifth semester Computer Science student🤓
+<h3 align="center">Sixth semester Computer Science student🤓
   <br>Full-Stack Developer💻</h3>
 
 - 👷🏻‍♀️I’m currently working on **University Projects**
